@@ -1,0 +1,27 @@
+{
+  "name": "webgl_grid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogegg/webgl_grid.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rogegg/webgl_grid/issues"
+  },
+  "homepage": "https://github.com/rogegg/webgl_grid#readme",
+  "dependencies": {
+    "dat.gui": "^0.7.7",
+    "gsap": "^3.7.0",
+    "three": "^0.129.0"
+  },
+  "devDependencies": {
+    "@parcel/transformer-glsl": "^2.0.0-beta.2"
+  }
+}
